@@ -1,0 +1,8 @@
+{
+  "name": "Petsgram Ecosystem",
+  "description": "Цифровая экосистема и ИИ-помощник для владельцев животных, ветеринаров и фермеров.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
